@@ -98,3 +98,7 @@ hidden = true
 
 [builtins.translation]
 hidden = true
+
+[keys]
+next = ["ctrl n"]
+prev = ["ctrl p"]
